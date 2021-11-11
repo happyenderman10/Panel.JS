@@ -2,19 +2,29 @@
 Panel.JS is a hosting service which built in NodeJS.
 
 # Process
-[========== ========== ========== ========== =====      45%                                                       ]
+[========== ========== ========== ========== =====      45%__                                                       __]
 
 # TODO
 [x] Accounts
+
 [x] Add Accounts
+
 [x] Settings + Branding
+
 [x] Admin Panel
+
 [X] Roles
+
 [ ] Client Panel
+
 [ ] Servers
+
 [ ] File Manager
+
 [ ] Profile Settings
+
 [ ] Themes
+
 [ ] Edit & Manage Accounts
 
 # Discord
