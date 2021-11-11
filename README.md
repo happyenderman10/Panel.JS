@@ -1,8 +1,19 @@
 # Panel.JS
 Panel.JS is a hosting service which built in NodeJS.
 
-# Process
-[########## ########## ########## ########## #####===== 45% ========== ========== ========== ========== ==========]
+# Process (TODO)
+| Name      | Process |
+| ----------- | ----------- |
+| Accounts      | 100%       |
+| Settings   | 50%        |
+| Admin Panel   | 100%        |
+| Roles   | 100%        |
+| Client Panel   | 0%        |
+| Servers   | 0%        |
+| File Manager   | 0%        |
+| Profile Settings   | 0%        |
+| Themes   | 100%        |
+| Edit & Manage Accounts   | 50%        |
 
 # TODO
 - [x] Accounts
@@ -23,7 +34,7 @@ Panel.JS is a hosting service which built in NodeJS.
 
 - [ ] Profile Settings
 
-- [ ] Themes
+- [x] Themes
 
 - [ ] Edit & Manage Accounts
 
