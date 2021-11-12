@@ -50,7 +50,7 @@ Coming soon.
   - Yes, definitely.
 
 - Panel.JS needs root access?
-  - No it didn't, and this is why we think its easier to setup.
+  - No it didn't (except for the Docker setup), and this is why we think its easier to setup.
 
 - Panel.JS is gonna be open source?
   - We currently don't know. (Currently we don't planning to make it as open source.)
